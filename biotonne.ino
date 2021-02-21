@@ -16,9 +16,7 @@ void setup() {
     pinMode(led_pin_green, OUTPUT);
     analogWrite(led_pin_red, 0);
     analogWrite(led_pin_green, 0);
-
-    delay(100);
-    }
+}
 
 void loop() {
     int moisture_sensor = constrain(analogRead(soil_pin_analog), moisture_min, moisture_max);
