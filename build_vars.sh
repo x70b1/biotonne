@@ -9,11 +9,3 @@ PROJECT_TITLE="Biotonne"
 PROJECT_DESCRIPTION="Check the moisture of a plant using a tiny organic waste container."
 PROJECT_URL="github.com/x70b1/biotonne"
 PROJECT_BASE="https://store.arduino.cc/arduino-nano"
-PROJECT_FIGLET="
-██████╗ ██╗ ██████╗ ████████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗
-██╔══██╗██║██╔═══██╗╚══██╔══╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝
-██████╔╝██║██║   ██║   ██║   ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗
-██╔══██╗██║██║   ██║   ██║   ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝
-██████╔╝██║╚██████╔╝   ██║   ╚██████╔╝██║ ╚████║██║ ╚████║███████╗
-╚═════╝ ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝
-"
